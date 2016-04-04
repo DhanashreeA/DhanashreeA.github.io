@@ -113,10 +113,10 @@ events:
   - image: "/img/career/tibco.png"
     date: "July 2013 - July 2015"
     description: "Associate Software Consultant @ <a href=\"http://www.tibco.com\" target=\"_blank\">Tibco Software Ltd.</a>, the integration bus company! Created software using Tibco tools and frameworks."
-  - image: "/img/career/persistent.png"
+  - image: "/img/career/persistent.jpeg"
     date: "July 2012 - July 2013"
     description: "Software Project Intern @ <a href=\"http://www.persistent.com\" target=\"_blank\">Persistent Systems Ltd.</a>. Created an open source email archival system based on Cassandra database."
-  - image: "/img/career/unipune.png"
+  - image: "/img/career/unipune.jpeg"
     date: "August 2009 - June 2013"
     description: "Bachelor studies @ <a href=\"http://www.unipune.ac.in\" target=\"_blank\">Department of Computer Engineering</a> on Computer Engineering."
 # First image of the Timeline
