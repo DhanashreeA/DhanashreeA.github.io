@@ -42,7 +42,6 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/opera.jpg"
-me-img: "../img/me.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to my virtual world!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
