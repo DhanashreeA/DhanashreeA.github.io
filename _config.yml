@@ -146,6 +146,7 @@ social:
 pages_list:
   About: 'about'
   Skills: 'skills'
+  Projects: 'projects'
   Timeline: 'timeline'
   Contact: 'contact'
 
