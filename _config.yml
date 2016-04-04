@@ -54,7 +54,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Welcome to my virtual world!"
+  - text: "Welcome to my virtual world..."
 
 me-img: "/img/me.jpg"
 
