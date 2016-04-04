@@ -106,7 +106,7 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:events:
+events:
   - image: "/img/career/asu.png"
     date: "August 2015 - Today"
     description: "Master studies @ <a href=\"http://www.asu.edu\" target=\"_blank\">Ira A. Fulton Schools of Engineering</a> on Computer Science."
