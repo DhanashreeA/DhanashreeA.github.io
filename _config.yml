@@ -41,7 +41,8 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/opera.jpg"
+me-img: "../img/me.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -133,7 +134,7 @@ email: "dhadhika@asu.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "I am Dhanashree. I was born in India (pretty much a snake charmer! ;) ). I am currently pursuing my Master's in Computer Science at Arizona State University. I am passionate about technology. I am a trained salsa dancer and an awesome cook(self proclaimed!). In my free time I like to eat!"
+author_blurb: ""
 author_blurb_image: "/img/author.png"
 
 ##################
