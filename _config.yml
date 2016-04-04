@@ -79,29 +79,6 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "panossakkos"
-
-syntax-highlight: True
-
 ############
 # Timeline #
 ############
@@ -113,7 +90,7 @@ events:
   - image: "/img/career/tibco.png"
     date: "July 2013 - July 2015"
     description: "Associate Software Consultant @ <a href=\"http://www.tibco.com\" target=\"_blank\">Tibco Software Ltd.</a>, the integration bus company! Created software using Tibco tools and frameworks."
-  - image: "/img/career/persistent.jpeg"
+  - image: "/img/career/persistent.jpg"
     date: "July 2012 - July 2013"
     description: "Software Project Intern @ <a href=\"http://www.persistent.com\" target=\"_blank\">Persistent Systems Ltd.</a>. Created an open source email archival system based on Cassandra database."
   - image: "/img/career/unipune.jpeg"
@@ -168,7 +145,6 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
